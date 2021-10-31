@@ -7,7 +7,7 @@ In list below you can have an a idea about what projects that I already work:
 
 # Professional
 
-<img src="https://user-images.githubusercontent.com/5366951/139567587-ab4b8231-b8d9-4fd5-97b8-87ed7915e659.png" alt="iti_logo" style="width: 150px"></img>
+<img src="https://user-images.githubusercontent.com/5366951/139567587-ab4b8231-b8d9-4fd5-97b8-87ed7915e659.png" alt="iti_logo" style="width: 88px"></img>
 
 ### Fast Payments (PIX)
 
@@ -21,8 +21,6 @@ In list below you can have an a idea about what projects that I already work:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/5366951/139567622-953d5f6d-a5f7-44e6-8062-6e31b1e6e81b.png" alt="itbam_logo" style="width: 150px"></img>
+<img src="https://user-images.githubusercontent.com/5366951/139567622-953d5f6d-a5f7-44e6-8062-6e31b1e6e81b.png" alt="itbam_logo" style="width: 88px"></img>
 
 ### Manufacturing Execution System (MES)
-
-# Personal
