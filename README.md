@@ -3,7 +3,7 @@
 
 My name is Yan and I'm Tech Leader @ [Zup](https://www.zup.com.br/), a passionate developer and dota 2 amateur player. \o/
 
-In list below you can have an a idea about what projects that I already work:
+In list below you can have an idea about what projects that I already work:
 
 # Professional
 
