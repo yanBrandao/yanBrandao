@@ -5,7 +5,6 @@ My name is Yan and I'm Tech Leader @ [Zup](https://www.zup.com.br/), a passionat
 
 In list below you can have an idea about what projects that I already work:
 
-<div align="center">
 <a href="https://iti.itau/">
     <img src="https://user-images.githubusercontent.com/5366951/139567587-ab4b8231-b8d9-4fd5-97b8-87ed7915e659.png"
          alt="iti_logo" style="width: 88px"/>
@@ -23,7 +22,6 @@ In list below you can have an idea about what projects that I already work:
 <a href="https://supergeeks.com.br/">
  <img src="https://pbs.twimg.com/profile_images/834059561032151041/frG20364_400x400.jpg" style="width: 88px" >
 </a>
-</div>
 
 <div align="center">
   <h2></h2>
@@ -31,10 +29,8 @@ In list below you can have an idea about what projects that I already work:
 
 Want to know more about me? Follow me in my social media
 
-  <div align="center">
-    <a href="https://instagram.com/yan.brandao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ybrandao.d@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yanbrandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </div>
+<a href="https://instagram.com/yan.brandao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href = "mailto:ybrandao.d@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yanbrandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Be welcome to share your opinion in my repositories and don't forget to follow. 😆
