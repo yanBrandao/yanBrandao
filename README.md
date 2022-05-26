@@ -7,20 +7,14 @@ In list below you can have an idea about what projects that I already work:
 
 <a href="https://iti.itau/">
     <img src="https://user-images.githubusercontent.com/5366951/139567587-ab4b8231-b8d9-4fd5-97b8-87ed7915e659.png"
-         alt="iti_logo" style="width: 88px"/>
-</a>
-<a href="https://iti.itau/pagar-transferir/">
-    <img src="https://iti.itau/content/dam/iti/Icone%20-%20pagamento%20de%20boletos.svg" />
-</a>
-<a href="https://iti.itau/o-que-e-o-pix/">
-    <img src="https://iti.itau/content/dam/iti/M11%20%E2%80%93%20Main%20Banner%20-%20536x536.svg" style="width: 88px">
+         alt="iti_logo" style="border: 0 solid white; border-radius: 10px; width: 60px"/>
 </a>
 <a href="https://www.transire.com.br/">
     <img src="https://media-exp1.licdn.com/dms/image/C560BAQF1aZ4BOdyqkw/company-logo_200_200/0/1539724184310?e=2147483647&v=beta&t=baUDPXU7Pp5SwciufV0FFAcRhtm56yhzleGKiqOrh0A"
-         alt="transire_logo" style="width: 88px"/>
+         alt="transire_logo" style="border: 0 solid white; border-radius: 10px; width: 60px"/>
 </a>
 <a href="https://supergeeks.com.br/">
- <img src="https://pbs.twimg.com/profile_images/834059561032151041/frG20364_400x400.jpg" style="width: 88px" >
+ <img src="https://pbs.twimg.com/profile_images/834059561032151041/frG20364_400x400.jpg" style="border: 2px solid white; border-radius: 10px; width: 60px" >
 </a>
 
 <div align="center">
