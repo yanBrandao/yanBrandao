@@ -43,3 +43,7 @@ Want to know more about me? Follow me in my social media
 <a href="https://www.linkedin.com/in/yanbrandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Be welcome to share your opinion in my repositories and don't forget to follow. 😆
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanBrandao&show_icons=true&hide_border=true&bg_color=1c1c1c&title_color=09f1ff&icon_color=09f1ff&text_color=09f1ff" />
+</div>
