@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=yanBrandao&label=Views+👁️&style=flat-square&color=blueviolet)
 ### Hello folks 😄
 <img src="https://user-images.githubusercontent.com/5366951/139567431-e2ed8b35-df2c-4081-a635-eb6b72b66389.jpg" alt="axe" style="width: 150px"></img>
 
