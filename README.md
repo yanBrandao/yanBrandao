@@ -2,7 +2,7 @@
 ### Hello folks 😄
 <img src="https://user-images.githubusercontent.com/5366951/139567431-e2ed8b35-df2c-4081-a635-eb6b72b66389.jpg" alt="axe" style="width: 150px"></img>
 
-My name is Yan and I'm Tech Leader @ [Zup](https://www.zup.com.br/), a passionate developer and dota 2 amateur player. \o/
+My name is Yan and Backend Developer @ [Sky Portugal](https://www.skygroup.sky/), a passionate developer and dota 2 amateur player. \o/
 
 In icon list below you can have an idea about what projects that I already work:
 
@@ -27,15 +27,15 @@ In those projects I used the following tech stacks:
 
 💻 Programming languages:
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin_logo" style="width: 25px"/> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java_logo" style="width: 25px"/> <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="csharp_logo" style="width: 25px"/> <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="kotlin_logo" style="width: 25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin_logo" style="width: 25px"/> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java_logo" style="width: 25px"/> <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="csharp_logo" style="width: 25px"/> <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="kotlin_logo" style="width: 25px"/>
 
 💾 Databases:
 
-* <img src="https://www.seekpng.com/png/full/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png" alt="sql_server_icon" style="width: 25px"/> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgres_icon" style="width: 25px"/> <img src="https://destra.software/content/139447302d72e5568f6eb89c4abba1c1.svg" alt="dynamo_db" style="width: 25px"/>
+<img src="https://www.seekpng.com/png/full/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png" alt="sql_server_icon" style="width: 25px"/> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgres_icon" style="width: 25px"/> <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" alt="dynamo_db" style="width: 25px"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-1024.png" alt="mysql_icon" style="width: 25px" />
 
 🔧 Frameworks and tools:
 
-* <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="gitlab_ci" style="width: 25px"/> <img src="https://caiodelgado.dev/content/images/2020/04/terraform_d56939b1fa30e9c48acec1ccd8d4e507.png" alt="terraform_logo" style="width: 25px"/> <img src="http://mirrors.jenkins.io/art/jenkins-logo/headshot.svg" alt="jenkins_logo" style="width: 25px"/> <img src="https://static.docs.com/ui/media/product/azure/spring-cloud.svg" alt="spring_logo" style="width: 25px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/2048px-Apache_kafka-icon.svg.png" alt="kafka_logo" style="width: 25px"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4WweXRCA5-B2-AKKOKntcbUQAlPc0WW5coRkAdLr53h0002Aq6FPWw79--m6GGdHGiM&usqp=CAU" alt="avro_logo" style="width: 25px"/> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqngOW2G6vuw/company-logo_200_200/0/1624901824586?e=2147483647&v=beta&t=RM9fTeiBtqI7u44mhCKfbr8MWkw5ZxvAVMHBqofV0Bk" alt="aws_logo" style="width: 25px"/><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="aws_logo" style="width: 25px"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="gitlab_ci" style="width: 25px"/> <img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" alt="terraform_logo" style="width: 25px"/> <img src="http://mirrors.jenkins.io/art/jenkins-logo/headshot.svg" alt="jenkins_logo" style="width: 25px"/> <img src="https://static.docs.com/ui/media/product/azure/spring-cloud.svg" alt="spring_logo" style="width: 25px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/2048px-Apache_kafka-icon.svg.png" alt="kafka_logo" style="width: 25px"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4WweXRCA5-B2-AKKOKntcbUQAlPc0WW5coRkAdLr53h0002Aq6FPWw79--m6GGdHGiM&usqp=CAU" alt="avro_logo" style="width: 25px"/> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqngOW2G6vuw/company-logo_200_200/0/1624901824586?e=2147483647&v=beta&t=RM9fTeiBtqI7u44mhCKfbr8MWkw5ZxvAVMHBqofV0Bk" alt="aws_logo" style="width: 25px"/><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="aws_logo" style="width: 25px"/>
 
 Want to know more about me? Follow me in my social media
 
