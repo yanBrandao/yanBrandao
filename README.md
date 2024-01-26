@@ -2,7 +2,7 @@
 ### Hello folks 😄
 <img src="https://user-images.githubusercontent.com/5366951/139567431-e2ed8b35-df2c-4081-a635-eb6b72b66389.jpg" alt="axe" style="width: 150px"></img>
 
-My name is Yan and Backend Developer @ [Sky Portugal](https://www.skygroup.sky/), a passionate developer and dota 2 amateur player. \o/
+My name is Yan and I'm a Backend Developer @ [Sky Portugal](https://www.skygroup.sky/), a passionate developer and dota 2 amateur player. \o/
 
 In icon list below you can have an idea about what projects that I already work:
 
